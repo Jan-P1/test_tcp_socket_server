@@ -1,0 +1,3 @@
+F:/Desktop/TH_Köln/SS2022/BS/Test_and_own_code/cmake-build-debug/CMakeFiles/Test_and_own_code.dir
+F:/Desktop/TH_Köln/SS2022/BS/Test_and_own_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Desktop/TH_Köln/SS2022/BS/Test_and_own_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
